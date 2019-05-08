@@ -1,0 +1,12 @@
+{
+    "name": "hunt_kill",
+    "description": "Hunts for test data",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_mfeeny-it.json",
+            "credentialsFile": "flows_mfeeny-it_cred.json"
+        }
+    }
+}
